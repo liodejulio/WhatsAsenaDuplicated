@@ -8,7 +8,7 @@
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
-            "NOT_FOUND": "*I couldnt find a command like this*",
+            "NOT_FOUND": "*Comando nao encontrado*",
             "WARN": "Warn"
         },
         "_plugin": {
